@@ -1,6 +1,6 @@
 # Current
 
-My blog: [https://gladimdim.org](https://www.gladimdim.org)
+My blog: [https://gladimdim.org](https://gladimdim.org)
 
 Author of Loca Deserta Universe. It includes several games:
 

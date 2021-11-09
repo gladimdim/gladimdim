@@ -1,16 +1,20 @@
 # Current
 
-My blog: [https://gladimdim.org](https://gladimdim.org)
+My main MetaPersona profile page: [https://dmytrogladkyi.com](https://dmytrogladkyi.com)
+
+My blog on hashnode: [https://gladimdim.org](https://gladimdim.org)
 
 Author of Loca Deserta Universe. It includes several games:
 
 - Interactive fiction game: [Loca Deserta](https://locadeserta.com/interactive/index_en)
 - City building game Sloboda: [Loca Deserta: Sloboda](https://locadeserta.com/citybuilding/index_en).
 - Resource gathering puzzle: [Loca Deserta: Hex](https://locadeserta.com/locadesertahex/index_en).
+- Trading game: [Loca Deserta: Chumaki](https://locadeserta.com/locadesertachumaki/index_en).
 
+Created youtube series called "Building Game with Flutter": [Building Game with Flutter](https://www.youtube.com/watch?v=bJV_XcQcmIg&list=PLFLb_LwRwa-vx3UtBo4FAsoBlXgQl_Wse)
 
 Big fan of FP, OOP and Smalltalkish like development experiences.
 
-## Dark Past
+## Past
 Fan of Functional Programming. Author fo [Reason Weekly (Abandonded)](https://github.com/gladimdim/reasonmlonline)
 

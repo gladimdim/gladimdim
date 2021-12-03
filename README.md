@@ -8,6 +8,7 @@
 - 3+ years with Flutter 💙
 
 ## Contacts
+gladimdim@gmail.com
 dmytrogladkyi@gmail.com
 
 ---

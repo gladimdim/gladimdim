@@ -35,7 +35,7 @@ I have a tiktok account for my game: https://tiktok.com/@locadeserta
 
 # Games with Unity 🤓
 
-I have designed, developed and publish my first commercial game "Loca Deserta: Sloboda 2":
+I have designed, developed and published my first commercial game "Loca Deserta: Sloboda 2":
 https://gladimdim.org/loca-deserta-sloboda-2-release
 
 Sixth months after the release (Dec 2022) and the game is still in top paid games charts of the 🇺🇦 App Store:

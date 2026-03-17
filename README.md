@@ -6,8 +6,8 @@
 ## TLDR
 - 14+ years with JavaScript 🤲
 - 3+ years with Flutter 💙
-- One Steam Game - [https://store.steampowered.com/app/2637950/_/](Loca Deserta: Odesa]
-- Multiple mobile games, Fortnite islands and Roblox Experiences: [https://locadeserta.com/](Loca Deserta Games Universe)
+- One Steam Game - [Loca Deserta: Odesa](https://store.steampowered.com/app/2637950/_/)
+- Multiple mobile games, Fortnite islands and Roblox Experiences: [Loca Deserta Games Universe](https://locadeserta.com)
 - AI all the way up and down
 ---
 

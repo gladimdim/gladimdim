@@ -4,21 +4,18 @@
 # /Profile
 
 ## TLDR
-- 8+ years with JavaScript
+- 14+ years with JavaScript 🤲
 - 3+ years with Flutter 💙
-- NodeJS 💪🏻
-
-## Contacts
-gladimdim@gmail.com
-dmytrogladkyi@gmail.com
-
+- One Steam Game - [https://store.steampowered.com/app/2637950/_/](Loca Deserta: Odesa]
+- Multiple mobile games, Fortnite islands and Roblox Experiences: [https://locadeserta.com/](Loca Deserta Games Universe)
+- AI all the way up and down
 ---
 
 # /Blogs
 
 My main MetaPersona profile page: [https://dmytrogladkyi.com](https://dmytrogladkyi.com)
 
-My blog on hashnode: [https://gladimdim.org](https://gladimdim.org)
+My blog on hashnode (not updated anymore): [https://gladimdim.org](https://gladimdim.org)
 
 --- 
 
@@ -29,22 +26,7 @@ Created youtube series called "Building Game with Flutter": [Building Game with 
 
 # Tiktok 
 
-I have a tiktok account for my game: https://tiktok.com/@locadeserta
-
----
-
-# Games with Unity 🤓
-
-I have designed, developed and published my first commercial game "Loca Deserta: Sloboda 2":
-https://gladimdim.org/loca-deserta-sloboda-2-release
-
-Sixth months after the release (Dec 2022) and the game is still in top paid games charts of the 🇺🇦 App Store:
-![ua_ipad_top_3](https://user-images.githubusercontent.com/448179/235074639-855e4461-1b84-4a44-9b2e-42bf2549fd95.png)
-
-And sometimes we get into tops of Google Play Store as well ❤️:
-
-![top_google_2](https://user-images.githubusercontent.com/448179/235074784-58dcc103-de4f-40bb-ba7b-ccf2775f31a1.png)
-
+I have a tiktok account for my game: https://tiktok.com/@dmytrogladkyi
 
 ---
 
